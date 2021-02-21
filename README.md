@@ -1,2 +1,2 @@
 # profile-card-component
-Componente de tarjeta de perfil usando tecnologías de html, css y flexbox
+Componente de tarjeta de perfil de usuario utilizando tecnologías de html, css y flexbox
